@@ -1,5 +1,5 @@
 ## Hi there 👋 I am katze-a0
-
+[![An image of @katze-a0's Holopin badges](https://holopin.me/katze-a0)](https://holopin.io/@katze-a0)
 <!--
 **katze-a0/katze-a0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
